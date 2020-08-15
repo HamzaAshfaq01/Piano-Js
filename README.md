@@ -15,4 +15,4 @@
 <li>data-: (https://www.w3schools.com/tags/att_global_data.asp).</li>
 <li>kbd: (https://www.w3schools.com/tags/tag_kbd.asp).</li>
 <h2>Project Prwview</h2>
-(https://ali-tahir4024.github.io/Piano-Project-JS/).
+(https://hamzaashfaq01.github.io/Piano-Js/).
